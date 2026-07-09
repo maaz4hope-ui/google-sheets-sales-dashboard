@@ -5,6 +5,9 @@ Sales dashboard built using Google Sheets to analyze 9,994 Superstore orders wor
 
 ![Banner](banner.png)
 
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
+
 ## 🔍 Overview
 Analyzed the famous Superstore Sales dataset using Google Sheets to build a comprehensive sales dashboard. Transformed 9,994 orders worth $2.3M in revenue into clear, actionable business insights through advanced spreadsheet techniques.
 
